@@ -1,1 +1,3 @@
 # MacSentinel
+
+Developing a macOS security tool in Rust to monitor kernel-level process activity, detect threats like unsigned code execution and file tampering using the Endpoint Security API, and block malicious behavior in real-time. Planning to extend functionality with network monitoring and cross-platform eBPF support to demonstrate low-level systems programming and cybersecurity skills relevant to secure software development.
